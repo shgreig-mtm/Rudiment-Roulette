@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../RudimentRoulette.Client/rudimentroulette.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="RudimentRoulette.Web.csproj" />
+</Solution>

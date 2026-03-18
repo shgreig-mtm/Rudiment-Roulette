@@ -1,0 +1,16 @@
+/* Global reset and app container styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #app {
+  height: 100%;
+  width: 100%;
+}
+
+.app {
+  min-height: 100vh;
+  background-color: #1a1a1a;
+}
